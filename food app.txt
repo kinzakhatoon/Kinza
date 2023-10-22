@@ -1,4 +1,0 @@
-GROUP: Kinza Khatoon(SP21-BSE-015)
-       Mahnoor Aftab (SP21-BSE-016)
-
-PROJECT: Food Hunt App
